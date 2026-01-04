@@ -1,0 +1,14 @@
+{
+  "name": "Quantum Account Cave",
+  "short_name": "Q-Cave",
+  "description": "An enterprise-grade financial management system with real-time data visualization, immutable records, and multi-module support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#020408",
+  "background_color": "#020408"
+}
